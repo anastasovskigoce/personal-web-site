@@ -1,0 +1,68 @@
+## Basic Configuration
+
+baseurl = "https://anastasovskigoce.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Goce Anastasovski"
+title = "Goce Anastasovski"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "Goce" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Goce Anastasovski"
+intro = "Mobile Team Lead and Android Developer @ alarm.com"
+description = "To Refactor or Not To Refactor: That is the question"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Goce Anastasovski Android Software Engineer"
+keywords = "goce,anastasovski,android,software,developer,engineer"
+
+## Social Accounts
+[params.social]
+email = "anastasovskigoce@gmail.com"
+github = "anastasovskigoce"
+linkedin = "anastasovski-goce"
+youtube = "GoceAnastasovski"
+facebook = "ganastasovski"
+twitter = "GoceAnastasovs1"
+
+## Extras
+[params.extra]
+copyright = "© 2020. Goce Anastasovski"
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "conferences"
+    weight = 100
+    identifier = "conferences"
+    url = "/conferences/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "resume"
+    identifier = "resume"
+    weight = 300
+    url = "/resume/"
