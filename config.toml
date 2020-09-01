@@ -65,4 +65,4 @@ displayrssicon = true
     name = "resume"
     identifier = "resume"
     weight = 300
-    url = "/resume/"
+    url = "/resume.pdf"
