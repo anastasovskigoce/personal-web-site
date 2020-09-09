@@ -7,7 +7,7 @@ showcomments: false
 
 I have been working as a Mobile Developer since 2014. Initially, I started as a junior developer, transitioned through all the senior roles and I currently lead a team of 8 Android and iOS engineers. I spent most of my carrier working on an app that lets you control IoT devices and some part of my career was spent working on Capital Ones banking app. In my free time, I am working on an app that provides the user with daily motivational quotes. I plan on expanding the app to provide daily motivational images, videos and music. The app is talking to a server written in JAVA (Spring Boot), MongoDB and is hosted on heroku. The app has not been released yet.
 
-The app is usin theg MVI architectual pattern, Retrofit for networking, Room DB, has Notifications support, WorkManager, Broadcasting, LiveData and is written in 100% Kotlin. In additiong to Android/Kotlin, Spring Boot, MongoDB, I have experience in .NET, C# and SQL.
+The app is using the MVI architectual pattern, Retrofit for networking, Room DB, has Notifications support, WorkManager, Broadcasting, LiveData and is written in 100% Kotlin. In additiong to Android/Kotlin, Spring Boot, MongoDB, I have experience in .NET, C# and SQL.
 
 In the beggining of my career I spent 2.5 years as a teaching & research assistant, so I am comfortable talking to a group of people. During that time I published 4 research papers and presented them to the academic community. Recently I gave a technical talk on Code Reviews and how they can be used as a teaching tool. Check out my conferences section for more details.
 
