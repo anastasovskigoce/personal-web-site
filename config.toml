@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Goce Anastasovski"
 intro = "Mobile Team Lead and Android Developer @ alarm.com"
-description = "To Refactor or Not To Refactor: That is the question"
+description = "To Refactor or Not To Refactor! That is the question!"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
