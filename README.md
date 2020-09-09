@@ -1,4 +1,6 @@
-### Hi there 👋
+### Personal web site
+
+This repo contains the source code for the Hugo project that I used to build my personal web site. The web site is currenlty (untill I buy my own domain 😄) availible at [anastasovskigoce.github.io](https://anastasovskigoce.github.io)
 
 <!--
 **anastasovskigoce/anastasovskigoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
