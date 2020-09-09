@@ -5,7 +5,7 @@ draft: true
 showcomments: false
 ---
 
-Talks
+Technical Talks
 
 DC Android Meetup "Code Review A Software Engineer's Best Friend"
 * Event - https://www.meetup.com/DCAndroid/events/271463591/
