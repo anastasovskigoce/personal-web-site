@@ -1,6 +1,6 @@
 ---
 title: "Conferences"
-date: 2020-11-29T22:14:49-04:00
+date: 2021-10-29T22:14:49-04:00
 draft: false
 showcomments: false
 ---
@@ -9,6 +9,7 @@ showcomments: false
 
 ### Code Review A Software Engineer's Best Friend - [Link to Talk](https://www.droidcon.com/media-detail?video=470544583)
 
+* Droidcon London, October 2021
 * DroidconAPAC, December 2020
 * GDG DevFest Italia, November 2020
 * DroidconEMEA, October 2020
