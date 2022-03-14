@@ -7,7 +7,10 @@ showcomments: false
 
 ## Technical Talks
 
-### Code Review A Software Engineer's Best Friend - [Link to Talk](https://www.droidcon.com/media-detail?video=470544583)
+### A New Life For An Old Phone
+* Droidcon Lisbon, April 2022
+
+### Code Review A Software Engineer's Best Friend - [Link to Talk](https://www.droidcon.com/2021/11/17/code-review-a-software-engineers-best-friend-4/)
 
 * Droidcon London, October 2021
 * DroidconAPAC, December 2020
