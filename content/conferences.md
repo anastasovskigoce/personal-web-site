@@ -8,6 +8,7 @@ showcomments: false
 ## Technical Talks
 
 ### A New Life For An Old Phone
+* Cognizant Softvision Programmers Week Romania, September 2022
 * Droidcon Lisbon, April 2022
 
 ### Code Review A Software Engineer's Best Friend - [Link to Talk](https://www.droidcon.com/2021/11/17/code-review-a-software-engineers-best-friend-4/)
