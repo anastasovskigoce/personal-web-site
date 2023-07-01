@@ -56,11 +56,11 @@ displayrssicon = true
     weight = 100
     identifier = "conferences"
     url = "/conferences/"
-#[[menu.main]]
-#    name = "about"
-#    identifier = "about"
-#    weight = 200
-#    url = "/about/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
 [[menu.main]]
     name = "resume"
     identifier = "resume"
